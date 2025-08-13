@@ -10,7 +10,7 @@
   - [implementing FAQ (SEO)](https://developers.google.com/search/docs/appearance/structured-data/faqpage)
   - [implementing Event (SEO)](https://developers.google.com/search/docs/appearance/structured-data/event)
   
-## 🌱 I’m currently learning
+## 🌱 I’m currently learning:
   - PHP
   - Various SEO strategies
 
