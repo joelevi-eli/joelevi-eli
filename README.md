@@ -1,9 +1,14 @@
 # 💫 About Me:
 ## 🔭 I’m currently working on:
   - updating static HTML websites to dynamic PHP-driven sites
-  - implementing Video (SEO)
-  - implementing LocalBusiness (SEO)
-  - implementing Breadcrumbs (SEO)
+  - [implementing Video (SEO)](https://developers.google.com/search/docs/appearance/structured-data/video?sjid=12659659449156195387-NA)
+  - [implementing LocalBusiness (SEO)](https://developers.google.com/search/docs/appearance/structured-data/local-business)
+  - [implementing Organization (SEO)](https://developers.google.com/search/docs/appearance/structured-data/organization)
+  - [implementing Breadcrumbs (SEO)](https://developers.google.com/search/docs/appearance/structured-data/breadcrumb)
+  - [implementing Carousel (SEO)](https://developers.google.com/search/docs/appearance/structured-data/carousel)
+  - [implementing Review snippet (SEO)](https://developers.google.com/search/docs/appearance/structured-data/review-snippet)
+  - [implementing FAQ (SEO)](https://developers.google.com/search/docs/appearance/structured-data/faqpage)
+  - [implementing Event (SEO)](https://developers.google.com/search/docs/appearance/structured-data/event)
   
 ## 🌱 I’m currently learning
   - PHP
